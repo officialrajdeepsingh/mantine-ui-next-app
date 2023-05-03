@@ -1,4 +1,4 @@
-Create a demo with Martine UI and nextjs app.
+Create a demo with Martine and [the nextjs app](https://beta.nextjs.org/docs).
 
 ```bash
 npm run dev
